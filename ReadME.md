@@ -117,6 +117,6 @@ When comparing the two models the Random forest was able to provide more in dept
 
 3. The specific postalcode area will have more affect on the price of the property than if the property is located in the city or suburb.
 
-#Future Work 
+# Future Work 
 
-I will continue to extract more data that is available on Zillow to add more features to compare and analyze to bring more insight to the real estate market.
+I will continue to extract more data that is available on Zillow to add more features to compare and analyze the properties to bring more insight to the real estate market.
