@@ -88,6 +88,7 @@ The find_outliers function helps indicate the outiers within the specified colum
 
 # Linear Regression and Random Forest Model
 
+Two types of models were used to analyze the data extracted. 
 
 Ordinary Least Squares is a method that estimates the relationship between every variable with the independent variable. It minimizes the sum of the squares between the observed and predicted values often shown as a linear line.
 
