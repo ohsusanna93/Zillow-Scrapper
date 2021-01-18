@@ -101,6 +101,7 @@ RandomizedSearchCV is an algorithm that takes the input of parameters and attemp
 
 
 # RESULTS and CONCLUSION
+In conclusion we were able to see that the random forest model was able to accuratly bin properties into the corresponding price market based on the features that were given in the property. 
 
 The r squared value in our linear regression model increased as we took away the location and seller variables, resulting in a r squared value of 0.799. Which can be interpretted as a 80% correlation. 
 
