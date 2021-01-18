@@ -2,6 +2,8 @@
 
 # Introduction
 
+A Zillow Scrapper was created to analyze all properties listed on Zillow, a real estate website used to sell, buy, and rent. The Zillow Scrapper is able to bring great insight to the different features that are compared and displayed with any available property listed on the website. Many future homebuyers, renters, and potential clients use Zillow in search of their new home. It is also a common tool used by real estate agents/companies to list their properties. 
+
 A linear regression model as well as the Random Forest method will be used to compare the relationship between the features and the price. The columns in our data frame and listed below.
 
     - price of property
