@@ -63,8 +63,9 @@ warnings.filterwarnings('ignore')
 
 # Pre-Process Data
 
+We extracted all white spaces, commas, dashes, and unnecessary symbols, including the dollar sign, that would interfere with our data. Allowing us to have a clean numerical data set. We were also able to categorize and map all non numerical columns into a categorical column to keep a consistent numerical data set. 
 
-We creataed another column named 'location' to split the cities into two categories: suburbs and city and printed all the unique values in each column to see what our dataset looks like. Then cleaned out all symbols and signed and getting rid of any null values.
+We created another column named 'location' to split the cities into two categories: suburbs and city and printed all the unique values in each column to see what our dataset looks like. Then cleaned out all symbols and signed and getting rid of any null values.
 
 
 
